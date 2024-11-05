@@ -7,7 +7,7 @@ const Header = () => {
             <div className="container">
                 <nav className="navbar navbar-expand-lg navbar-light">
                     <NavLink to="/" className="navbar-brand">
-                        <h1 className="sitename">Kelly</h1>
+                        <h1 className="sitename">Portfolio</h1>
                     </NavLink>
                     <button
                         className="navbar-toggler"
