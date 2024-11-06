@@ -1,5 +1,4 @@
 import { NavLink } from "react-router-dom";
-import { BiLogoTwitter, BiLogoFacebook, BiLogoInstagram, BiLogoLinkedin } from "react-icons/bi";
 
 const Header = () => {
     return (

@@ -11,9 +11,6 @@ const Footer = () => {
         </div>
 
         <div className="social-links d-flex justify-content-center">
-          <NavLink to="/twitter" aria-label="Twitter"><BiLogoTwitter color="blue" size={24} /></NavLink>
-          <NavLink to="/facebook" aria-label="Facebook"><BiLogoFacebook color="blue" size={24} /></NavLink>
-          <NavLink to="/instagram" aria-label="Instagram"><BiLogoInstagram color="#E1306C" size={24} /></NavLink>
           <NavLink to="/linkedin" aria-label="LinkedIn"><BiLogoLinkedin color="#0077B5" size={24} /></NavLink>
         </div>
 
