@@ -7,7 +7,6 @@ const Footer = () => {
       <div className="container">
         <div className="copyright text-center">
           <p>© <span>Copyright</span> 
-          <strong className="px-1 sitename">Jyoti Jingar</strong> 
           <span>All Rights Reserved <br /></span></p>
         </div>
 
@@ -19,7 +18,7 @@ const Footer = () => {
         </div>
 
         <div className="credits">
-          Designed by <a href="https://bootstrapmade.com/" target="_blank" rel="noopener noreferrer">BootstrapMade</a>
+          Designed by <a href="https://bootstrapmade.com/" target="_blank" rel="noopener noreferrer">Jyoti Jingar</a>
         </div>
       </div>
     </footer>
