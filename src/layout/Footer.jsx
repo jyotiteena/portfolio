@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
 
         <div className="credits">
-          Designed by <a href="https://bootstrapmade.com/" target="_blank" rel="noopener noreferrer">Jyoti Jingar</a>
+          Designed by Jyoti Jingar
         </div>
       </div>
     </footer>
