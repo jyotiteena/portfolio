@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
 
         <div className="social-links d-flex justify-content-center">
-          <NavLink to="/linkedin" aria-label="LinkedIn"><BiLogoLinkedin color="#0077B5" size={24} /></NavLink>
+          <NavLink to="https://www.linkedin.com/in/jyoti-jingar-859ab4159/" aria-label="LinkedIn"><BiLogoLinkedin color="#0077B5" size={24} /></NavLink>
         </div>
 
         <div className="credits">
